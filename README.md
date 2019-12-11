@@ -1,5 +1,8 @@
 # SOUND CLASSIFICATION WITH TENSORFLOW ON RASPBERRY PI
 
+The following project is modified to run under python3 changes
+
+
 ![alt text](https://raw.githubusercontent.com/GianlucaPaolocci/Sound-classification-on-Raspberry-Pi-with-Tensorflow/master/img/Immagine.png)
 
 #  BUILD THE PROJECT
